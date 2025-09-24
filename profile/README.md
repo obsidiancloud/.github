@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Where expertise meets innovation**
+## *Cutting through Complexity*
 
 [![Website](https://img.shields.io/badge/Website-obsidiancloud.io-blue?style=for-the-badge)](https://obsidiancloud.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/obsidiancloud)
