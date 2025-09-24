@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Obsidian Cloud Logo](https://via.placeholder.com/200x200/1a1a1a/ffffff?text=Obsidian+Cloud)
-
 **Where expertise meets innovation**
 
 [![Website](https://img.shields.io/badge/Website-obsidiancloud.io-blue?style=for-the-badge)](https://obsidiancloud.io)
