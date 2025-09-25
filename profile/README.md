@@ -96,6 +96,13 @@ Obsidian Cloud is your strategic technology partner, specializing in **Cloud arc
 - **Log aggregation & analysis**
 - **Performance optimization insights**
 
+### 🌐 Web3 & Blockchain Development
+- **Solana smart contract development with Anchor framework**
+- **DeFi protocol design and implementation**
+- **SPL token creation and management**
+- **Web3 dApp frontend development**
+- **Blockchain infrastructure and RPC optimization**
+
 ## 🌟 Our Values
 
 ### 🎯 Precision Focus
@@ -115,6 +122,7 @@ Measurable outcomes and ROI that justify your technology investments.
 - **Cloud Native Expertise**: Deep knowledge across AWS, Azure, and GCP
 - **DevOps Excellence**: Streamlined processes and automated workflows
 - **AI Solution Engineering**: Modern AI/ML implementation and data engineering
+- **Web3 & Blockchain Development**: Solana ecosystem expertise with Rust and Anchor
 - **Security First**: Zero-trust architectures and compliance automation
 - **Scalable Solutions**: Built for growth and enterprise-grade performance
 
