@@ -7,7 +7,6 @@
 ## *Cutting through Complexity*
 
 [![Website](https://img.shields.io/badge/Website-obsidiancloud.io-blue?style=for-the-badge)](https://obsidiancloud.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/obsidiancloud)
 [![Contact](https://img.shields.io/badge/Contact-Get%20Started-green?style=for-the-badge)](mailto:contact@obsidiancloud.io)
 
 </div>
@@ -49,13 +48,14 @@ Obsidian Cloud is your strategic technology partner, specializing in **Cloud arc
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Configuration & Policy
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![OPA](https://img.shields.io/badge/Open_Policy_Agent-7D9199?style=for-the-badge&logoColor=white)
 
 ### Infrastructure & DevOps
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -180,7 +180,7 @@ Ready to transform your infrastructure? Let's discuss how our expertise can help
 **Contact Us:**
 - 🌐 Website: [obsidiancloud.io](https://obsidiancloud.io)
 - 📧 Email: contact@obsidiancloud.io
-- 💼 LinkedIn: [linkedin.com/company/obsidiancloud](https://linkedin.com/company/obsidiancloud)
+- 📞 Phone: +1-866-274-3426 (Toll-Free)
 
 ---
 
