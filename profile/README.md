@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/obsidiancloud/.github/main/assets/obsidian-cloud-logo.png" alt="Obsidian Cloud Logo" width="400"/>
+<img src="../assets/logo.png" alt="Obsidian Cloud Logo" width="400"/>
 
 # **Obsidian Cloud**
 
